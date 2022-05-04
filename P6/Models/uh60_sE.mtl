@@ -1,0 +1,130 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.05.2022 12:44:49
+
+newmtl Material__25
+	Ns 17.1484
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\LacCGeIHC\P8_V3\P6\P6\Textures\fuselage.jpg
+	map_Kd D:\LacCGeIHC\P8_V3\P6\P6\Textures\fuselage.jpg
+
+newmtl Material__26
+	Ns 22.6274
+	Ni 1.5000
+	d 0.4300
+	Tr 0.5700
+	Tf 0.4300 0.4300 0.4300 
+	illum 2
+	Ka 0.0471 0.1412 0.1961
+	Kd 0.0471 0.1412 0.1961
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__32
+	Ns 21.1121
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\LacCGeIHC\P8_V3\P6\P6\Textures\Plt.jpg
+	map_Kd D:\LacCGeIHC\P8_V3\P6\P6\Textures\Plt.jpg
+
+newmtl Material__36
+	Ns 22.6274
+	Ni 1.5000
+	d 0.4300
+	Tr 0.5700
+	Tf 0.4300 0.4300 0.4300 
+	illum 2
+	Ka 0.0471 0.4471 0.1333
+	Kd 0.0471 0.4471 0.1333
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__28
+	Ns 13.9288
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\LacCGeIHC\P8_V3\P6\P6\Textures\panel.jpg
+	map_Kd D:\LacCGeIHC\P8_V3\P6\P6\Textures\panel.jpg
+
+newmtl Material__29
+	Ns 34.2967
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\LacCGeIHC\P8_V3\P6\P6\Textures\pal.jpg
+	map_Kd D:\LacCGeIHC\P8_V3\P6\P6\Textures\pal.jpg
+
+newmtl Material__30
+	Ns 27.8576
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3490 0.3137 0.2627
+	Kd 0.3490 0.3137 0.2627
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__37
+	Ns 22.6274
+	Ni 1.5000
+	d 0.7100
+	Tr 0.2900
+	Tf 0.7100 0.7100 0.7100 
+	illum 2
+	Ka 0.6588 0.0392 0.0392
+	Kd 0.6588 0.0392 0.0392
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__33
+	Ns 25.9921
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__34
+	Ns 12.1257
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1843 0.1843 0.1843
+	Kd 0.1843 0.1843 0.1843
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
