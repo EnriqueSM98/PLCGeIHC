@@ -1067,6 +1067,8 @@ int main()
 				movPterX = 0.0f;
 				movPterY = 0.0f;
 				movPterZ= 0.0f;
+				rotPteroY = 0.0f;
+				rotPteroZ = 0.0f;
 			}
 		}
 
