@@ -2,7 +2,7 @@
 
 /*
 Semestre 2022-2
-Práctica 8: Iluminación 2
+Poryecto Final LCGeHC
 */
 //para cargar imagen
 #define STB_IMAGE_IMPLEMENTATION
