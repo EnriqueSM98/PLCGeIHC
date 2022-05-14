@@ -1,0 +1,69 @@
+﻿  P6.cpp
+D:\LacCGeIHC\P8_V3\P6\P6\Window.h(15,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\Window.h(16,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\Window.h(22,28): warning C4244: 'return': conversión de 'unsigned int' a 'GLfloat'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\Window.h(23,33): warning C4244: 'return': conversión de 'unsigned int' a 'GLfloat'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\Window.h(24,27): warning C4244: 'return': conversión de 'unsigned int' a 'GLfloat'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(416,31): warning C4244: '=': conversión de 'GLfloat' a 'int'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(417,37): warning C4244: '=': conversión de 'GLfloat' a 'int'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(418,29): warning C4244: '=': conversión de 'GLfloat' a 'int'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(427,18): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(437,18): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(440,44): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(600,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(602,43): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(615,28): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(616,28): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(617,51): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(619,34): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(624,29): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(625,34): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(632,27): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(633,51): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(641,28): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(642,29): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(643,51): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(650,30): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(651,34): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(659,28): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(667,28): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(668,28): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(669,51): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(676,29): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(678,52): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(688,27): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(689,51): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(698,29): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(700,28): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(709,30): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(711,52): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(721,28): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(756,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(760,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(761,36): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(771,34): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(773,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(776,36): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(785,34): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(801,35): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(804,36): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(974,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(978,32): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(979,37): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(985,32): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(991,32): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(998,33): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(999,33): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1009,33): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1010,33): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1020,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1024,32): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1025,37): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1032,32): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1039,33): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1040,33): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1050,33): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1051,33): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1061,52): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\LacCGeIHC\P8_V3\P6\P6\P6.cpp(1062,32): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  P6.vcxproj -> D:\LacCGeIHC\P8_V3\P6\Debug\P6.exe
